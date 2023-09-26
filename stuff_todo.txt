@@ -1,0 +1,13 @@
+stuff to do:
+
+//GOAL: create a program which counts how many times the ball gets kicked up  
+
+1) display file
+    - displays the score 
+    - display what the camera sees 
+        - (MAYBE)display the ball in the camera view
+        - track the ball
+        - Track the body
+    - UI interface
+2) code for 
+3) /
