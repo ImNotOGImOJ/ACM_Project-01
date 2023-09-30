@@ -10,4 +10,12 @@ stuff to do:
         - Track the body
     - UI interface
 2) code for 
-3) /
+3) 
+
+
+
+// potential problems
+
+1) what is a valid kick up?
+2) what to do for different types of balls
+
